@@ -4,8 +4,11 @@ AI-Powered Educational Chat Application
 This is a React-based chat application that simulates real-time AI-powered educational discussions. The application provides a seamless user experience with features like real-time updates, advanced state management, and optimized performance.
 
 DEMO Images:
+![Screenshot (443)](https://github.com/user-attachments/assets/26b037ee-0bb6-42a1-9ba5-f5194cdbf214)
 
+![Screenshot (446)](https://github.com/user-attachments/assets/f7b79515-a61f-4c1b-8f5e-5fba45b2861c)
 
+![Screenshot (450)](https://github.com/user-attachments/assets/3592baa5-96fd-45e3-8f0e-4358d1429b50)
 
 **FEATURES**
 Real-Time Chat Interface:
